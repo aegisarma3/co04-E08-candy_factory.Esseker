@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={10023.035,13.317532,5543.48};
-		dir[]={-0.20719537,-0.39148569,0.89658779};
-		up[]={-0.08815036,0.92017508,0.38144514};
-		aside[]={0.97435212,4.7747744e-007,0.22516815};
+		pos[]={4643.6348,154.26027,5916.4648};
+		dir[]={0.46898043,-0.55188376,-0.68955892};
+		up[]={0.31036586,0.83391923,-0.45634231};
+		aside[]={-0.82688463,1.6664853e-007,-0.56237775};
 	};
 };
 binarizationWanted=0;
@@ -92,25 +92,6 @@ class CustomAttributes
 		name="Multiplayer";
 		class Attribute0
 		{
-			property="RespawnButton";
-			expression="true";
-			class Value
-			{
-				class data
-				{
-					class type
-					{
-						type[]=
-						{
-							"SCALAR"
-						};
-					};
-					value=1;
-				};
-			};
-		};
-		class Attribute1
-		{
 			property="RespawnTemplates";
 			expression="true";
 			class Value
@@ -156,6 +137,25 @@ class CustomAttributes
 							};
 						};
 					};
+				};
+			};
+		};
+		class Attribute1
+		{
+			property="RespawnButton";
+			expression="true";
+			class Value
+			{
+				class data
+				{
+					class type
+					{
+						type[]=
+						{
+							"SCALAR"
+						};
+					};
+					value=1;
 				};
 			};
 		};
@@ -265,7 +265,7 @@ class Mission
 		{
 			dataType="Trigger";
 			position[]={4635.7969,148.59016,5904.5342};
-			angle=1.8920937;
+			angle=1.8920935;
 			class Attributes
 			{
 				condition="this AND !alive truck_JX;";
@@ -576,7 +576,7 @@ class Mission
 									"BOOL"
 								};
 							};
-							value=1;
+							value=0;
 						};
 					};
 				};
