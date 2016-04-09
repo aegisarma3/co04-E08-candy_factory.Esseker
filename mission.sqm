@@ -21,9 +21,9 @@ class EditorData
 	class Camera
 	{
 		pos[]={4643.6348,154.26027,5916.4648};
-		dir[]={0.46898043,-0.55188376,-0.68955892};
-		up[]={0.31036586,0.83391923,-0.45634231};
-		aside[]={-0.82688463,1.6664853e-007,-0.56237775};
+		dir[]={-0.81157112,-0.44355789,-0.38029236};
+		up[]={-0.40164989,0.89624316,-0.18820791};
+		aside[]={-0.42431545,1.8010905e-007,0.9055205};
 	};
 };
 binarizationWanted=0;
@@ -64,10 +64,10 @@ randomSeed=9193689;
 class ScenarioData
 {
 	author="Collumbus & Toaster";
-	overviewText="Uma intervenção arriscada é necessária para previnir os Bratvas de adquirir novos equipamentos.";
+	overviewText="Uma intervenção arriscada é necessária para prevenir os Bratvas de adquirir novos equipamentos.";
 	overViewPicture="images\intro7.jpg";
 	overViewPictureLocked="images\intro7.jpg";
-	onLoadMission="Uma intervenção arriscada é necessária para previnir os Bratvas de adquirir novos equipamentos.";
+	onLoadMission="Uma intervenção arriscada é necessária para prevenir os Bratvas de adquirir novos equipamentos.";
 	loadScreen="images\intro7.jpg";
 	disabledAI=1;
 	respawn=1;
@@ -191,7 +191,7 @@ class Mission
 	class Intel
 	{
 		briefingName="Fallen Skies";
-		overviewText="Uma intervenção arriscada é necessária para previnir os Bratvas de adquirir novos equipamentos.";
+		overviewText="Uma intervenção arriscada é necessária para prevenir os Bratvas de adquirir novos equipamentos.";
 		resistanceWest=0;
 		timeOfChanges=5400;
 		startWeather=0.049788039;
@@ -265,11 +265,11 @@ class Mission
 		{
 			dataType="Trigger";
 			position[]={4635.7969,148.59016,5904.5342};
-			angle=1.8920935;
+			angle=1.8920939;
 			class Attributes
 			{
 				condition="this AND !alive truck_JX;";
-				onActivation="[30000,true] remoteExecCall [""aegis_mission_payment"", 2];sleep 4;""end1"" call BIS_fnc_endMission;  ";
+				onActivation="[85000,true] remoteExecCall [""aegis_mission_payment"", 2];sleep 4;""end1"" call BIS_fnc_endMission;  ";
 				sizeA=30;
 				sizeB=30;
 				interuptable=1;
@@ -930,17 +930,60 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={4640.3096,152.15042,5914.7827};
-				angles[]={6.2825875,0.30035719,6.2817621};
+				position[]={4640.3096,152.15016,5914.7832};
+				angles[]={6.2825918,0.30035371,6.281754};
 			};
 			side="Empty";
 			class Attributes
 			{
 				skill=0.60000002;
 				init="this enableSimulation false;this setdir 17.2092;this setposATL [4640.422852,5914.74707,3.4475];this setVectorUp [0,0,1]";
+				name="HG_BOX";
 			};
 			id=178;
 			type="plp_ct_MilBoxMediumOlive";
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ammoBox";
+					expression="[_this,_value] call bis_fnc_initAmmoBox;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="[[[[],[]],[[],[]],[[],[]],[[],[]]],true]";
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ace_isMedicalFacility";
+					expression="_this setVariable [""ace_medical_isMedicalFacility"",_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				nAttributes=2;
+			};
 		};
 		class Item36
 		{
