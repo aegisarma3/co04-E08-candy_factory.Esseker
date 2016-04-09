@@ -1,0 +1,26 @@
+#include "aegis_ace_settings.hpp"
+
+
+class CfgDebriefing
+{
+	class End1
+	{
+		title = "Missão Cumprida";
+		subtitle = "Destruição do carregamento JX-8H";
+		description = "A equipe AEGIS destruiu todo o carregamento de armas JX-8H, assegurando domínio sobre os Bratvas.";
+		pictureBackground = "";
+		picture = "b_inf";
+		pictureColor[] = {0.0,0.3,0.6,1};
+	};
+
+  class loser
+  {
+		title = "Missão Falhou";
+		subtitle = "Todo o grupo AEGIS morreu";
+		description = "Mesmo retornando fogo e lutando bravamente, o grupo AEGIS pereceu em campo de batalha.";
+		pictureBackground = "";
+		picture = "KIA";
+		pictureColor[] = {0.6,0.1,0.2,1};
+	};
+
+};
