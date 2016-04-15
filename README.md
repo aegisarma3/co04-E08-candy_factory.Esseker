@@ -16,21 +16,21 @@ Após o "controle" da situação o caminha com a carga deve ser localizar e extr
 
 
 # EXECUÇÃO
-1- Fazer a aproximação da antiga estação de energia Plomino.
+1- Fazer a aproximação da antiga estação de energia Plomino.  
 2- Localizar a torre de comunicação Brativa.  
-3- Destruir/desativar a torre de comunicação Brativa.
-4- Identificar e neutralizar o líder da célula.
+3- Destruir/desativar a torre de comunicação Brativa.  
+4- Identificar e neutralizar o líder da célula.  
 5- Localizar o caminhão de tranporte de carga.  
 6- Conduzir o caminhão para área de extração.  
 7- Assegurar que não houve nenhuma perseguição até a área de extração.  
-8- Se alocar no QG temporário.
+8- Se alocar no QG temporário.  
 
 # CALLSIGNS
 **KAISER:** Equipe AEGIS  
 **CORONA:** Comando AEGIS  
-**VOVA:** Líder da Célula em questão
-**Sierra:** Local onde a Célula esta situda
-**VEGAS:** Local de extração da carga / QG provisório
+**VOVA:** Líder da Célula em questão  
+**Sierra:** Local onde a Célula esta situada  
+**VEGAS:** Local de extração da carga / QG provisório  
 
 Boa sorte!
 
