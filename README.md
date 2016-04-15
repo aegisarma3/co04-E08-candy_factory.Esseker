@@ -12,7 +12,7 @@ Seu líder atende por **Vova**, sua identidade real é desconhecida. Um segundo 
 Foi conseguido uma janela a oeste do espaço aéreo local que possibilitará a extração da carga recuperada, sendo assim Kaiser de agir de forma rápida e exata.
 
 # MISSÃO
-Kaiser deverá fazer sua aproximação pela cidade de Kula e seguir para leste em direção a floresta. Esse talvés seja o único trajeto que possibilite uma maior aproximação sem ser notado. O deslocamento deve ser rápido pois Kula fica a menos de 500 metros de **Sierra** e a existência de patrulhas aos arredores da cidade foi identificada. A estação parece estar bem guardada, uma distração poderia chamar a atenção de algumas patrulhas facilitando a entrada dos agentes. Há um posto de gasolina em Kula (marcação **Ratoeira**), Kaiser poderia implantar alguns explosivos e detonalos quando estiverem já na floresta a leste. Essa explosão chamara a atenção de patrulhas próximas e talvés até mesmo de forças russas que tem intensificado suas rondas após os últimos ocorridos. Isso insidira em um confronto entre ambos proporcionando um melhor cenário para os operadores invadirem a estação.
+Kaiser deverá fazer sua aproximação pela cidade de Kula e seguir para leste em direção a floresta. Esse talvez seja o único trajeto que possibilite uma maior aproximação sem ser notado. O deslocamento deve ser rápido pois Kula fica a menos de 500 metros de **Sierra** e a existência de patrulhas aos arredores da cidade foi identificada. A estação parece estar bem guardada, uma distração poderia chamar a atenção de algumas patrulhas facilitando a entrada dos agentes. Há um posto de gasolina em Kula (marcação **Ratoeira**), Kaiser poderia implantar alguns explosivos e detona-los quando estiverem já na floresta a leste. Essa explosão chamara a atenção de patrulhas próximas e talvez até mesmo de forças russas que tem intensificado suas rondas após os últimos ocorridos. Isso insidira em um confronto entre ambos proporcionando um melhor cenário para os operadores invadirem a estação.
 
 Uma vez adentro os operadores devem desativar a torre de comunicação instantaneamente, dificultando o pedido de reforços dos Bratvas. Após o "controle" da situação o caminhão com a carga deve ser localizar e extraído. Mas, Corona adverte, o material é extremamente volátil e instável. Qualquer colisão poderia provocar uma reação em cadeia gerando uma grande explosão ou intoxicação radioativa letal. Não pode haver em hipótese alguma perseguições ou comprometimento do local da extração, a equipe de apoio estará no local. Assim que os agentes chegaram com a carga o transporte aéreo será solicitado. O caminhão deve ser deixado no helipad para facilitar o içamento.
 
@@ -22,7 +22,7 @@ Uma vez adentro os operadores devem desativar a torre de comunicação instantan
 2- Localizar a torre de comunicação Bratva.  
 3- Destruir/desativar a torre de comunicação Bratva.  
 4- Identificar e neutralizar o líder da célula.  
-5- Localizar o caminhão de tranporte de carga.
+5- Localizar o caminhão de transporte de carga.
 6- Certificar-se que o caminhão esta com toda a carga.  
 7- Conduzir o caminhão para área de extração.  
 8- Assegurar que não houve nenhuma perseguição até a área de extração.  
