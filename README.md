@@ -22,7 +22,7 @@ Uma vez adentro os operadores devem desativar a torre de comunicação instantan
 2- Localizar a torre de comunicação Bratva.  
 3- Destruir/desativar a torre de comunicação Bratva.  
 4- Identificar e neutralizar o líder da célula.  
-5- Localizar o caminhão de transporte de carga.
+5- Localizar o caminhão de transporte de carga.  
 6- Certificar-se que o caminhão esta com toda a carga.  
 7- Conduzir o caminhão para área de extração.  
 8- Assegurar que não houve nenhuma perseguição até a área de extração.  
