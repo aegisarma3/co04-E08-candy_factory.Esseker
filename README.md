@@ -32,7 +32,8 @@ Após o "controle" da situação o caminha com a carga deve ser localizar e extr
 **VOVA:** Líder da Célula em questão  
 **Sierra:** Local onde a Célula esta situada  
 **VEGAS:** Local de extração da carga  
-**CABANA:** Local do QG provisório
+**CABANA:** Local do QG provisório  
+**RATOEIRA:** Local para emboscada
 
 Boa sorte!
 
