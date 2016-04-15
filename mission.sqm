@@ -8,7 +8,7 @@ class EditorData
 	toggles=10;
 	class ItemIDProvider
 	{
-		nextID=3033;
+		nextID=3035;
 	};
 	class MarkerIDProvider
 	{
@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={5146.9365,265.84723,4806.8706};
-		dir[]={-0.81400138,-0.037388775,-0.5798707};
-		up[]={-0.030573573,0.99926209,-0.021781107};
-		aside[]={-0.58027118,6.0931779e-007,0.81456017};
+		pos[]={5109.1772,200.4113,4745.1157};
+		dir[]={-0.91439879,-0.31030646,-0.26023421};
+		up[]={-0.29849818,0.95061225,-0.084951483};
+		aside[]={-0.27374524,-2.2335735e-007,0.961869};
 	};
 };
 binarizationWanted=0;
@@ -10581,7 +10581,7 @@ class Mission
 					side="East";
 					class Entities
 					{
-						items=4;
+						items=6;
 						class Item0
 						{
 							dataType="Object";
@@ -10699,6 +10699,36 @@ class Mission
 						};
 						class Item1
 						{
+							dataType="Object";
+							class PositionInfo
+							{
+								position[]={5171.249,163.66237,4739.7139};
+							};
+							side="East";
+							flags=1;
+							class Attributes
+							{
+							};
+							id=3033;
+							type="CAF_AG_BRA_R_SUPPORT";
+						};
+						class Item2
+						{
+							dataType="Object";
+							class PositionInfo
+							{
+								position[]={5168.9829,163.67079,4741.2417};
+							};
+							side="East";
+							flags=1;
+							class Attributes
+							{
+							};
+							id=3034;
+							type="CAF_AG_BRA_R_SHARPSHOOTER";
+						};
+						class Item3
+						{
 							dataType="Waypoint";
 							position[]={5169.5142,163.66763,4742.4248};
 							combatMode="YELLOW";
@@ -10711,7 +10741,7 @@ class Mission
 							id=2969;
 							type="Move";
 						};
-						class Item2
+						class Item4
 						{
 							dataType="Waypoint";
 							position[]={5082.48,163.78911,4760.6309};
@@ -10730,7 +10760,7 @@ class Mission
 								offset[]={0,0.5,0};
 							};
 						};
-						class Item3
+						class Item5
 						{
 							dataType="Waypoint";
 							position[]={9906.2168,189.89688,228.05127};
