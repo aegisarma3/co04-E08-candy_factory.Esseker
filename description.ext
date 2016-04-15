@@ -45,4 +45,10 @@ class CfgSounds
 		sound[] = {"\sound\tipat.ogg", 0.8, 1};
 		titles[] = {1, ""};
 	};
+	class alarme1
+	{
+		name = "alarme1";
+		sound[] = {"sound\alarme1.ogg", 1, 1.0};
+		titles[] = {};
+	};
 };
