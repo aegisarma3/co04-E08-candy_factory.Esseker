@@ -24,3 +24,25 @@ class CfgDebriefing
 	};
 
 };
+
+class CfgSounds
+{
+	class furnal
+	{
+		name = "furnal";
+		sound[] = {"\sound\furnal.ogg", 0.4, 1};
+		titles[] = {1, ""};
+	};
+	class burned
+	{
+		name = "burned";
+		sound[] = {"\sound\burned.ogg", 1, 1};
+		titles[] = {1, ""};
+	};
+	class tipat
+	{
+		name = "tipat";
+		sound[] = {"\sound\tipat.ogg", 0.8, 1};
+		titles[] = {1, ""};
+	};
+};

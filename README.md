@@ -1,50 +1,35 @@
 
-# Fallen Skies
-Sétimo episódio da campanha em Esseker.
+# Candy Factory
+Oitavo episódio da campanha em Esseker.
 
 # ![logo](images/SITREP_README.jpg)
 
-Corona informa que um contrato prioritário foi emitido para a unidade Kaiser:  
-
-*Senhores,*  
-
-*Exatamente as 0900 um C-130 americano foi abatido perto da cidade de Esseker, dentro da zona de exclusão.*  
-
-*Enquanto os burocratas tentam resolver a questão da diplomacia com o governo russo, um membro do senado americano entrou em contato com nossa filial em Washington DC.  
-Ele afirma que, apesar de não poder revelar qual era o real objetivo dessa aeronave, informou que ela carregava armamentos e munições. Agora, ele precisa que esse carregamento "desapareça".  
-Este contrato foi pedido como um "favor" por este membro do senado. Um favor que iremos utilizar num futuro próximo.  
-O pagamento para vocês será efetuado através de nossa filial em Londres.*  
-*O valor foi determinado em $ 85.000,00.*   
-*Boa sorte.*  
-
-Wellington Goddin  
-Director – AEGIS America
-
 # SITUAÇÃO
-Um C-130 americano, identificado apenas como JX-8H, foi abatido as 0900 na cidade de Esseker.  
-Informações através de nossa unidade em Washington afirmam que ele carregava armamentos e munições, com destino não informado.  
-Entretanto, Corona acredita que seu objetivo era rearmar rebeldes separatistas na região da Ukrania, perto da fronteira russa.  
-Imagens do Hannibal-6 mostram que o governo russo enviou um destacamento de tropas para assegurar a zona de queda.  
-Além disso, foi observado um grande número de rebeldes no local. Corona acredita que pelo modo que estão organizados e seu equipamento, trata-se de membros do Bratva.  
-Corona afirma ainda que foi identificado algumas aeronaves russas no local, então cautela é necessária na aproximação.  
-Imagens em tempo real mostram que um pequeno destacamento russo, aqui nomeado de **Tango**,  já está no local e carrega os equipamentos no momento deste briefing.  
-Corona adverte a não entrar em combate com unidades russas, e fazê-lo somente se necessário.  
+
+Com base nos dados dos documentos obtidos anteriormente pela equipe Kaiser, Corona conseguiu identificar mais uma célula dos Brativas. Dessa vez a célula em questão é a que se responsabiliza pelo "empacotamento" final dos produtos que o Cartel oferece ao mercado. Acredita-se então ser nesta cede onde esta sendo feito o loteamento do artefato roubado. A célula se localiza na antiga estação de energia Plomino (marcação **Sierra**) onde segundo fontes funciona também uma fabrica de munições. Um monitoramento realizado através do satélite Hannibal-6 identificou grande fluxo de caminhões da carga no local. Em uma das imagens a um dia atrás pode-se notar um caminhão transportando cargas em contêiners de alta segurança, levantando a suspeita de ser parte do artefato roubado já loteado e preparado pra distribuição.
+Corona solicita uma ação imediata à esta célula antes que o restante do material seja relocado. Seu líder antede por **Vova**, sua identidade real é desconhecida. Um segundo motivo pelo qual Kaiser deve agir imediatamente é o comprometimento do QG, após a última operação foi observedo constante e anormal movimental às proximidades segundo nosso parceiro Alexey em sua última entrega de suprimentos. Um QG temporário esta sendo preparado por uma equipe de apoio.
+Foi conseguido uma janela a oeste do espaço aéreo local que possibilitará a extração da carga recuperada, sendo assim Kaiser de agir de forma rápida e exata
 
 # MISSÃO
 Kaiser deverá fazer sua aproximação pela cidade de Esseker e destruir o caminhão russo que carrega os materiais que sobraram da queda do C-130.  
 Com a destruição confirmada, deverá voltar ao HQ para debriefing.
 
 # EXECUÇÃO
-1- Fazer a aproximação da cidade de Esseker.  
-2- Localizar o caminhão russo.  
-3- Destruir este caminhão.  
-4- Assegurar que não houve testemunhas no local.  
-5- Extração até HQ.
+1- Fazer a aproximação da antiga estação de energia Plomino.
+2- Localizar a torre de comunicação Brativa.  
+3- Destruir/desativar a torre de comunicação Brativa.
+4- Identificar e neutralizar o líder da célula.
+5- Localizar o caminhão de tranporte de carga.  
+6- Conduzir o caminhão para área de extração.  
+7- Assegurar que não houve nenhuma perseguição até a área de extração.  
+8- Se alocar no QG temporário.
 
 # CALLSIGNS
 **KAISER:** Equipe AEGIS  
 **CORONA:** Comando AEGIS  
-**TANGO:** Caminhão russo
+**VOVA:** Líder da Célula em questão
+**Sierra:** Local onde a Célula esta situda
+**VEGAS:** Local de extração da carga / QG provisório
 
 Boa sorte!
 
