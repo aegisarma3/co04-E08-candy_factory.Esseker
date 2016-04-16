@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=140;
+		nextID=148;
 	};
 	class Camera
 	{
-		pos[]={4644.4434,153.6335,5917.6592};
-		dir[]={-0.56855166,-0.072111532,-0.81955886};
-		up[]={-0.04111949,0.9973886,-0.059272535};
-		aside[]={-0.82169813,-5.4948032e-008,0.57003212};
+		pos[]={4635.3477,175.92378,5893.7422};
+		dir[]={-0.53752154,-0.13905671,-0.83176082};
+		up[]={-0.075505562,0.99027169,-0.11683749};
+		aside[]={-0.83991992,2.4721521e-007,0.54279208};
 	};
 };
 binarizationWanted=0;
@@ -118,25 +118,6 @@ class CustomAttributes
 		name="Multiplayer";
 		class Attribute0
 		{
-			property="RespawnButton";
-			expression="true";
-			class Value
-			{
-				class data
-				{
-					class type
-					{
-						type[]=
-						{
-							"SCALAR"
-						};
-					};
-					value=1;
-				};
-			};
-		};
-		class Attribute1
-		{
 			property="RespawnTemplates";
 			expression="true";
 			class Value
@@ -185,6 +166,25 @@ class CustomAttributes
 				};
 			};
 		};
+		class Attribute1
+		{
+			property="RespawnButton";
+			expression="true";
+			class Value
+			{
+				class data
+				{
+					class type
+					{
+						type[]=
+						{
+							"SCALAR"
+						};
+					};
+					value=1;
+				};
+			};
+		};
 		nAttributes=2;
 	};
 	class Category1
@@ -216,7 +216,7 @@ class Mission
 {
 	class Intel
 	{
-		briefingName="Fallen Skies";
+		briefingName="Candy Factory";
 		overviewText="Uma intervenção arriscada é necessária para prevenir os Bratvas de adquirir novos equipamentos.";
 		resistanceWest=0;
 		timeOfChanges=5400;
@@ -8501,7 +8501,7 @@ class Mission
 							dataType="Object";
 							class PositionInfo
 							{
-								position[]={5076,163.67993,4595.7998};
+								position[]={5124.3926,164.93675,4653.4019};
 								angles[]={0,3.9554155,0};
 							};
 							side="East";
