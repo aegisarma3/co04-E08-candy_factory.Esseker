@@ -8,7 +8,7 @@ class EditorData
 	toggles=1;
 	class ItemIDProvider
 	{
-		nextID=3082;
+		nextID=3086;
 	};
 	class MarkerIDProvider
 	{
@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=148;
+		nextID=172;
 	};
 	class Camera
 	{
-		pos[]={4635.3477,175.92378,5893.7422};
-		dir[]={-0.53752154,-0.13905671,-0.83176082};
-		up[]={-0.075505562,0.99027169,-0.11683749};
-		aside[]={-0.83991992,2.4721521e-007,0.54279208};
+		pos[]={5113.6621,198.64471,4624.3823};
+		dir[]={-0.10148618,-0.70861709,0.69828117};
+		up[]={-0.1019166,0.70559144,0.70124561};
+		aside[]={0.98961562,1.4601983e-007,0.14382768};
 	};
 };
 binarizationWanted=0;
@@ -118,6 +118,25 @@ class CustomAttributes
 		name="Multiplayer";
 		class Attribute0
 		{
+			property="RespawnButton";
+			expression="true";
+			class Value
+			{
+				class data
+				{
+					class type
+					{
+						type[]=
+						{
+							"SCALAR"
+						};
+					};
+					value=1;
+				};
+			};
+		};
+		class Attribute1
+		{
 			property="RespawnTemplates";
 			expression="true";
 			class Value
@@ -163,25 +182,6 @@ class CustomAttributes
 							};
 						};
 					};
-				};
-			};
-		};
-		class Attribute1
-		{
-			property="RespawnButton";
-			expression="true";
-			class Value
-			{
-				class data
-				{
-					class type
-					{
-						type[]=
-						{
-							"SCALAR"
-						};
-					};
-					value=1;
 				};
 			};
 		};
@@ -241,14 +241,14 @@ class Mission
 		year=2016;
 		month=4;
 		day=15;
-		hour=4;
-		minute=0;
+		hour=6;
+		minute=-20;
 		startFogDecay=0;
 		forecastFogDecay=0;
 	};
 	class Entities
 	{
-		items=60;
+		items=62;
 		class Item0
 		{
 			dataType="Marker";
@@ -15216,6 +15216,155 @@ class Mission
 			{
 			};
 			id=3066;
+		};
+		class Item60
+		{
+			dataType="Trigger";
+			position[]={5128.2222,164.08513,4651.5459};
+			angle=0.039374612;
+			class Attributes
+			{
+				text="Incendio_trigger";
+				condition="on_fire";
+				onActivation="0 =  execVM""Scripts\on_fire.sqf"";";
+				sizeA=0;
+				sizeB=0;
+			};
+			id=3082;
+			type="EmptyDetector";
+		};
+		class Item61
+		{
+			dataType="Group";
+			side="West";
+			class Entities
+			{
+				items=2;
+				class Item0
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={5106.334,163.99248,4649.7949};
+					};
+					side="West";
+					flags=3;
+					class Attributes
+					{
+						init="this allowDamage false; this setCaptive true";
+						description="Tester-01";
+						isPlayable=1;
+					};
+					id=3084;
+					type="AEGIS_Operador";
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="ace_isSurrendered";
+							expression="if (_value) then {[objNull,[_this],true] call ace_captives_fnc_moduleSurrender}";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute1
+						{
+							property="ace_isHandcuffed";
+							expression="if (_value) then {[objNull,[_this],true] call ace_captives_fnc_moduleHandcuffed}";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						nAttributes=2;
+					};
+				};
+				class Item1
+				{
+					dataType="Object";
+					class PositionInfo
+					{
+						position[]={5106.7168,163.9753,4647.8066};
+					};
+					side="West";
+					flags=1;
+					class Attributes
+					{
+						init="this allowDamage false; this setCaptive true";
+						description="Tester-02";
+						isPlayable=1;
+					};
+					id=3085;
+					type="AEGIS_Operador";
+					class CustomAttributes
+					{
+						class Attribute0
+						{
+							property="ace_isSurrendered";
+							expression="if (_value) then {[objNull,[_this],true] call ace_captives_fnc_moduleSurrender}";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						class Attribute1
+						{
+							property="ace_isHandcuffed";
+							expression="if (_value) then {[objNull,[_this],true] call ace_captives_fnc_moduleHandcuffed}";
+							class Value
+							{
+								class data
+								{
+									class type
+									{
+										type[]=
+										{
+											"BOOL"
+										};
+									};
+									value=0;
+								};
+							};
+						};
+						nAttributes=2;
+					};
+				};
+			};
+			class Attributes
+			{
+			};
+			id=3083;
 		};
 	};
 	class Connections
